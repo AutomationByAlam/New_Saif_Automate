@@ -312,3 +312,17 @@
 2018-03-04 12:09:00 INFO  TestBaby:98 - loading or.properties
 2018-03-04 12:11:11 INFO  TestBaby:93 - loading config.properties
 2018-03-04 12:11:11 INFO  TestBaby:98 - loading or.properties
+2018-03-05 21:01:30 INFO  Excel_reader2:29 - Staring Excel Reader2 fileH:\NewFrame\saifPro/src/main/java/company/saifPro/TestData/TestData.xlsx
+2018-03-05 21:01:31 INFO  Excel_reader2:36 - No. of row  7
+2018-03-05 21:03:51 INFO  Excel_reader2:29 - Staring Excel Reader2 fileH:\NewFrame\saifPro/src/main/java/company/saifPro/TestData/TestData.xlsx
+2018-03-05 21:03:53 INFO  Excel_reader2:36 - No. of row  7
+2018-03-05 21:04:57 INFO  Excel_reader2:29 - Staring Excel Reader2 fileH:\NewFrame\saifPro/src/main/java/company/saifPro/TestData/TestData.xlsx
+2018-03-05 21:04:58 INFO  Excel_reader2:36 - No. of row  7
+2018-03-05 21:07:08 INFO  Excel_reader2:29 - Staring Excel Reader2 fileH:\NewFrame\saifPro/src/main/java/company/saifPro/TestData/TestData.xlsx
+2018-03-05 21:07:09 INFO  Excel_reader2:37 - No. of row  7and No. of Col 3
+2018-03-05 21:09:58 INFO  Excel_reader2:29 - Staring Excel Reader2 fileH:\NewFrame\saifPro/src/main/java/company/saifPro/TestData/TestData.xlsx
+2018-03-05 21:09:59 INFO  Excel_reader2:37 - No. of row  7and No. of Col 3
+2018-03-05 21:13:49 INFO  Excel_reader2:29 - Staring Excel Reader2 fileH:\NewFrame\saifPro/src/main/java/company/saifPro/TestData/TestData.xlsx
+2018-03-05 21:13:50 INFO  Excel_reader2:37 - No. of row  7and No. of Col 3
+2018-03-05 21:14:22 INFO  Excel_reader2:29 - Staring Excel Reader2 fileH:\NewFrame\saifPro/src/main/java/company/saifPro/TestData/TestData.xlsx
+2018-03-05 21:14:23 INFO  Excel_reader2:37 - No. of row  7and No. of Col 3
