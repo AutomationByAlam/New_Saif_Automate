@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="vaio-VAIO" name="company.saifPro.Tests.AppTest2" tests="1" failures="0" timestamp="3 Mar 2018 16:54:18 GMT" time="116.461" errors="0">
+  <testcase name="testApp" time="0.044" classname="company.saifPro.Tests.AppTest2"/>
+</testsuite>
