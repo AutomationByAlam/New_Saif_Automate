@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.math.BigDecimal;
 import java.util.Iterator;
 
 import org.apache.log4j.Logger;
@@ -81,6 +82,8 @@ public class Excel_reader2 {
 			{
 				
 				System.out.print(data[m][n]+ " ");;
+				
+				new BigDecimal(0);
 			}
 			
 			System.out.println();
